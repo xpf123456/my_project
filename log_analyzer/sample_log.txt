@@ -1,0 +1,5 @@
+
+2025-08-12 15:33:21 [INFO][Cleaning] Task started
+2025-08-12 15:34:10 [ERROR][OTA] OTA update failed
+2025-08-12 15:35:05 [WARN][Charging] BatteryLow: 18%
+2025-08-12 15:36:11 [INFO][Cleaning] TaskSuccess
